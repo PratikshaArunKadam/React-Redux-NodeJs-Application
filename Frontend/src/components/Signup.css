@@ -1,0 +1,25 @@
+.error{
+    color: rgb(220, 211, 211);
+}
+.bgdiv{
+    /* background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593); */
+    margin-top: 5px;
+    background: linear-gradient(to right, #A9F1DF, #FFBBBB);
+}
+
+.button{
+    background:linear-gradient(to right, #e86100, #ed0004, #600025, #b44593);
+   
+
+}
+.dropdown{
+    border: none !important;
+}
+.dropdownSelect{
+    height: calc(1.5em + 0.75rem + 2px);
+    border-radius: 5px;
+    /* margin-bottom: 0px; */
+}
+.register{
+    margin-top: 10px    
+}

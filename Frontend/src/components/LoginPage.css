@@ -1,0 +1,47 @@
+.button{
+    background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   color: white;
+    /* background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593); */
+}
+
+.signup{
+
+   
+    background:linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+    float: right;
+}
+.logindiv{
+    
+        /* display: flex; */
+        
+      
+        display: flex;
+        align-items: center;
+           /* background: linear-gradient(to right,#006663 , #111111); */
+     /* height: 100vh; */
+      
+    /* background: linear-gradient(to right, #A9F1DF, #FFBBBB); */
+    /* background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593); */
+  
+}
+.logindiv1{
+    /* flex: 1; */
+    /* border: 1px solid black; */
+    /* display: flex; */
+    /* position: absolute; */
+    top: 50%;
+    transform: translate(0, 50%);
+    padding: 10px;
+    align-items: center;
+    background: linear-gradient(to right,#006663 , #111111);
+}
+.label{
+    color: #ebeff2;
+}

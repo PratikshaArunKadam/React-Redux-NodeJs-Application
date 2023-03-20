@@ -1,0 +1,14 @@
+.bgdiv{
+    /* background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593); */
+    background: linear-gradient(to right,#006663 , #111111);
+    color: rgb(243, 217, 217);
+}
+.heading{
+    text-align: center;
+}
+
+Button{
+    
+        background:linear-gradient(to right, #e86100, #ed0004, #600025, #b44593);
+        width: 100px
+}

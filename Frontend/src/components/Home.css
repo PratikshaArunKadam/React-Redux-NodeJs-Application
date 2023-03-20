@@ -1,0 +1,57 @@
+.inputSearch{
+    /* width: 100%; */
+    border: 1px solid rgb(13, 0, 5);
+    /* display: flex; */
+    padding: 0px;
+   
+    height: 35px;
+    margin-top: 20px;
+}
+.dropdowndiv{
+margin-top: 20px;
+/* width: 100%; */
+height: 35px;
+
+border: 1px solid rgb(11, 0, 4);
+}
+
+.countryData{
+    background: lavenderblush;
+    text-align: -webkit-center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  
+  th,
+  td {
+    text-align: left;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+span{
+    margin: 20px;
+   
+    /* border: 1px solid; */
+    padding: 10px;
+
+}  
+.pagination{
+    text-align: center;
+    justify-content: center;
+
+    
+}
+
+.containerr{
+    margin: 0% 2% !important
+}
+.search{
+    display: inline-flex;
+}
